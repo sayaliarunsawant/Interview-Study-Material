@@ -1,0 +1,70 @@
+CORE JAVA :
+
+1)  OOPS Concepts with real time example
+2)  Runtime Polymorphism and Compiletime Polymorphism(video remaining)
+3)  Static Concept
+4)  Insatnce Concept
+5)  Final Concept
+6)  Exception(Core Java / SpringBoot)
+7)  Collection
+8)  Serialization
+9)  Synchronization(Externalization remaining)
+10) Multithreading
+11) Stream API
+12) JAVA 8 features
+13) String
+14) Singleton Class
+15) Immutable Class
+16) AutoBoxing UnBoxing
+17) Wrapper Class
+18) Design Pattern
+19) Garbage Collector
+20) JVM/CLASSLOADER
+21) Shallow Copy ,Deep Copy
+22) Coding Questions
+
+
+Advanced JAVA / Frameworks :
+
+1) web services
+2) Spring
+3) Spring Boot
+4) Hibernate
+5) Microservices 
+6) Spring Security
+7) REST API
+
+
+DATABASE:
+
+1) SQL Queries
+2) ORACLE
+
+
+
+Agile Terminologies
+
+
+--- Programming Questions -----------
+
+1) to print the series of missing numbers in array from 0-99.
+   it should be like, 0-2 , 4-9, 11-76 , 78-99 for array like [3,10,77]
+
+2) Print a given matrix in spiral form using the simulation approach.
+
+3) Program to find all the patterns of 0(1+)0 in the given string
+
+4) Program to replace all 0's with 1 in a given integer
+
+5) Given a list of integers, return the most frequent item in the list.
+
+6) print a matrix in spiral, find a name in any line in a 2d array of characters, recursively check for string palindrome.
+
+7) Write a program to find a number in n*n matrix with minimal iteration. After I wrote the program they asked me to reduce number of loops in the code
+
+8) Implement function findDuplicates to find duplicates from array of integers without using any extra space proportional to input array size (good to implement using java streams api)
+
+9) Implement the function that will sort a string based on frequency of characters in ascending order
+
+10)Create a program to arrange your neighborhood in ascending order Sample
+	 {{2,6,4},{7,4,8},{9,0,1}} Output{{0,1,2},{4,6,8},{4,7,9}}

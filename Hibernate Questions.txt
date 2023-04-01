@@ -1,0 +1,15 @@
+1) What is Hibernate?
+2) What are adavantages of hibernate over JDBC?
+3) What are some important interfaces of hibernate?
+4) what is session ?
+5) what is session factory?
+6) session being a thread-safe object? true/false
+7) lazy loading in hibenate
+8) Diff between first level and second level cache
+9) Diff between get() and load() method
+10) Diff between save and saveOrUpdate() method
+11) what is hibenate configuration file?
+12) what is hibernate maaping?
+13) what is dialect ?
+14) Lifecycle of hibernate ?
+15) States of Entity in hibernate?

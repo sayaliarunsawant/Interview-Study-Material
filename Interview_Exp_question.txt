@@ -1,0 +1,195 @@
+1) Why functional Interface is developed as there already have the abstract class
+2) Why Stream is introduce as there is collection
+3) Methods of Object Class
+4) can we override static method
+5) How can we identify it is a functional interface.
+6) For any query optimization what we can use.
+7) For performance improvement of large amount of data what we can use.
+8) difference between method overloading & overriding
+9) How many objects are created when you write a code below
+	String S1 = new String("Sayali");
+	String s2 = new String("Sayali");
+10) If there are different environment and appliaction.properties file is environment specific then how it is differntiable.
+Ans : 
+		Simply add an application-[profile].properties file and specify the profiles to use using the spring.profiles.active property.
+
+		-Dspring.profiles.active=local
+		This will load the application.properties and the application-local.properties with the latter overriding properties from the first.
+
+11) real time example of method overriding in java?
+
+programming codes:-
+
+12) Write program to count the words repeated in particular String.
+13) Write program to validate email Id.
+
+=======================================================================================================================================================
+14) What is constructors
+15) Types of constructors
+16) How to handle exceptions
+17) What is user defined exceptions
+18) What is jdbc
+19) Types of drivers in jdbc
+20) Steps to connect to database
+21) What is logger
+22) Difference between log4j and log2
+23) What are levels of logger
+24) Lowest and highest level of logger
+25) Inheritance, types of inheritance in java
+26) Challenges you face in spring
+27) Explain spring starter pack
+28) How spring boot application starts
+29) What is restController
+30) What is restMapping
+31) Difference between rest controller and rest mapping
+32) How to deploy spring app on external tomcat
+33) What tasks main method does in spring -- Startups the application context
+34) What is distributed transaction
+35) Advantages of spring
+36) Disadvantages of spring
+37) Challenges in micro service
+38) What is micro service architecture
+39) Logging in micro services
+40) How to perform end to end testing in microservice
+
+=======================================================================================================================================================
+41) Write a code to check weather number is armstring number or not
+42) What is transactions, how to manage transactions in springboot
+43) What are attribute or parameters of transaction - Requires ,RequiredNew and Mandatory
+44) How to declare a rest api telling it return response in json format
+45) What are best practices while using collections
+ 
+46) What is use of treemap, linked list, hashset
+ 
+47) How to handle exceptions in springboot -- @ControllerAdvice(globally)  @ExceptionHandler(Locally)
+ 
+48) What is starter pack of springboot
+ 
+49) Which logging framework u have used. What are different levels of logs
+ 
+50) What is assertion in log4jl
+ 
+51) Annotation for primary key in springboot if id is only one column and if primary key is combination of 2-3 attributes @Embedded
+ 
+52) What is actuator
+ 
+53) How do we use / trace / debug issues on production in microservice architecture
+ 
+54) What is application context.
+ 
+55) What are different ways using which application context can be created(AnnotationConfig,AnnotationConfigWeb,XmlWeb,FileSystem,ClassPathXml)
+ 
+56) What is basic main config file in springboot
+ 
+57) How to use jwt to handle sessions
+ 
+58) How to save database configurations in property file while considering security of them
+ 
+59) How to configure data source
+ 
+60) How Microservices are interact with each other
+ 
+61) What are different sorting methods for collection ==>(sort(),sort(Comparator,list)
+ 
+62) Why Functional programming introduce in java
+ 
+63) what is Wrapper classes
+ 
+64) what is deep and shallow clonning.
+ 
+65) difference between static binding and dyanamic binding.
+ 
+66) How can we achieve abstraction in java
+ 
+67) Difference between interface and functional interface
+ 
+68) REST methods
+ 
+69) REST methods different response codes
+ 
+70) Difference between arrayList and linkedList
+ 
+71) Ways to create object in java
+ 
+72) What is volatile in java
+ 
+73) How to create immutable objects in java
+ 
+74) code for fibonnaci series 
+ 
+75) code for n'th highest/min salary
+ 
+76) Spring bean life cycle.
+ 
+ 
+77) IF write main method in java 7 and java 8 what is difference.
+ 
+78) what is the output of the following code
+ public static void main(String[] args)
+ {
+ 	System.out.println(null);
+ }
+ - Compilation Error
+79) Find the nth Highest salary of employee
+-select salary from employee order by salary desc limit n-1,1
+80) Difference between get post
+81) Difference between arraylist ,LinkedList
+82) Difference between singleton and prototype.
+83) What is discovery server in microservice
+84) Can we create class in interface?
+85) procedure functions and trigger in database.
+86) Write code accept integer from user and if insert 1 then output 0 and when enter 0 then output is 0.
+87) Difference between application server and web server
+88) Thread life cycle
+89) difference between Truncate and delete.
+90) How to create web service.
+91) How to create web services
+92) How microservices are communicate with each other
+93) JPA method for findbyname and department
+94) Difference between findFirst and findAny.
+95) What is Type interface.
+96) What is StringJoiner
+97) What is the condition for declaring specific type as key and value in Hashmap
+98) How you are authenticating web serivice in your project
+99) How microservices are communicating with each other 
+100) What is Spring Security
+101) How to Handle the exception in spring boot
+102) How to call external web service from your code?  : 
+	   Here we have given GetMapping as “callclienthello” so that external call will be available on that extension. 
+	   Next, Define your client URI on which your Service is accessible. 
+	   Create Rest Template object, then Using getForObject method you can call the defined service. 
+	   Now our “hello” service will also be available on extension  “callclienthello”. 
+
+103) IF I developed one springboot appli/cation on one port at that application you have deploy at your end so How can you deploy it on other port.
+104) Can we override String class method?
+105) importance of hashcode() and equals() Method
+106) Difference between Hashmap and concurrent Hashmap
+107) cascading models in spring boot?
+108) how to create spring boot runner class?
+
+
+
+
+
+
+=================================================================================================================================================================
+Interview Topics:
+1) Hibernate 
+2) JPA
+3) Sql
+4) Spring
+5) Spring Boot -> End to end testing , security ,AOP, Actuators
+6) Microservives -> Actuators,authentication,authoriozation,load balancer ,circuit,API gateway
+7) Webservices
+8) REST
+9) Core java - Multithreading
+10) Front end
+11) Functional Programming
+
+=======================================================================================================================================================================
+ 
+
+
+
+
+

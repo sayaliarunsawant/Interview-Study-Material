@@ -1,0 +1,32 @@
+Microservices 
+
+1) What is microservices?
+-> - Small and focused services
+   - Autonomus (packaging microservices on their own machines)
+
+2) Characteris/Advantages of Microservices :
+	- Microservices can written in different programming languages and delploy on different servers.
+	- Robustness : If one of the component down then it will not impact on whole system.
+	- Scalability : We can deploy those microservices on services depending upon the number of users using it.
+	- Easy to deploy : we can deploy particular microservice in ehich we have fixed the bug or can add new feature.
+	- Reusability and replacibility
+	
+3) SOA(Service Oriented Architecture) and Microservices : 
+	- SOA is design approach which collabarate multiple services to provide some end to end buiseness functinality.Does not focused on split application
+	  in multiple small services but microservices does this.
+	- Microservices is better version of SOA.
+
+4) REST(Representational State Transfer) :
+	- REST is the bunch of architectural guidelines.
+	- HTTP helps to easily implements REST
+	- CREATE,READ,UPDATE,DELETE
+
+5) HTTP Methods :
+	- POST   : Create a resource. 201 response code (/employees - collection resource  /employees/emp_id - item resource)
+	- GET    : read a resource.   200 response code 
+	- PUT    : update a resource. 200 response code (partial update is not possible)
+	- PATCH  : It updtae the partial item resource. 200 response code. 
+	- DELETE : delete a resource. 200 response code
+	
+6) Spring Data REST : 
+	- It simplified the operations from DAO layers (JPA Entity ,extends CrudRepository<Entity,Type of Id>)
